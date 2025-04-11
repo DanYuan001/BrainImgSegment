@@ -27,7 +27,8 @@ The code is stable using Python 3.8, Pytorch 1.8.1
 To install all the dependencies using pip.
 
 ----------------------------------------------------------------------
-public Datasets:
+Public Datasets:
+
 1.Brain Anatomy US dataset 
 
 2.Nuclei dataset
