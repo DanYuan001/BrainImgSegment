@@ -1,7 +1,10 @@
 Brain anatomy image segmentation by Res-UNet with attention
 --------------------------------------------------------------------
 ![1-1](https://github.com/user-attachments/assets/edea6d97-42ef-4766-aa3a-2701d7f30c1c)
+![1-7](https://github.com/user-attachments/assets/0b7ba2ba-47d0-4305-b1e8-8d561be1d2d7)
 ![4-1](https://github.com/user-attachments/assets/e453b863-49c3-4f28-95cc-48ac4cd46008)
+![4-7](https://github.com/user-attachments/assets/f6db3191-3c4e-4133-8cfc-9a4aedc90143)
+
 --------------------------------------------------------------------
 ![Fig1-改](https://github.com/user-attachments/assets/74c3a1b2-3b64-4947-aba1-0787016087db)
 
