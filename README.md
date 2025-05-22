@@ -1,4 +1,4 @@
-Dual Attention Residual Network for Ventricle Segmentation in Brain Ultrasound
+Dual Attention Residual U-Net for Accurate Brain Ultrasound Segmentation in IVH Detection
 --------------------------------------------------------------------
 ![3-1](https://github.com/user-attachments/assets/8dc517a0-77a9-423e-b0d3-c20b693c387d)
 ![3-7](https://github.com/user-attachments/assets/faac70e1-1bc1-4c9d-b0d8-4f9dd59af037)
