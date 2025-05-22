@@ -14,9 +14,7 @@ Dual Attention Residual U-Net for Accurate Brain Ultrasound Segmentation in IVH 
 Authors:
 Dan Yuan，
 Yi Feng，
-Ziyun Tang，
-Meng Qin，
-Dong Zheng。
+Ziyun Tang
 --------------------------------------------------------------------
 Introduction
 
